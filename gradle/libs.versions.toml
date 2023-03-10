@@ -4,7 +4,7 @@ lifecycleRuntime = "2.3.1"
 composeUi = "1.2.0"
 jUnitVersion = "4.13.2"
 androidxJunit = "1.1.3"
-espresso = "3.5.0"
+espresso = "3.5.1"
 
 [libraries]
 corektx = { module = "androidx.core:core-ktx", version.ref = "corektx" }

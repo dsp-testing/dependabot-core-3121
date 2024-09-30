@@ -26,4 +26,4 @@ test-espresso-Core = { module = "androidx.test.espresso:espresso-core", version.
 compose = ["compose-activity", "compose-ui", "compose-ui-tooling", "compose-material"]
 
 [plugins]
-kotlinter = { id = "org.jmailen.kotlinter", version = "3.11.0" }
+kotlinter = { id = "org.jmailen.kotlinter", version = "4.4.1" }
